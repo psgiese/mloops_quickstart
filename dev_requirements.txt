@@ -1,0 +1,9 @@
+pytest 
+pylint 
+pytest-cov
+pandas
+numpy
+configparser
+boto3
+black
+ipykernel
